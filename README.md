@@ -1,9 +1,9 @@
-<img align='right' src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=developStorm&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=ayu-mirage&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges'>
+<img align='right' src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=superdevpp&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=ayu-mirage&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges'>
 
 
 ### 👋 SuperDev++ 👋
-👨‍🎓 Production-grade software development | Professional UI/UX design
-🔎 Development of core libraries and reusable components
+👨‍🎓 Production-grade software development | Professional UI/UX design  
+🔎 Development of core libraries and reusable components  
 ❤️ Reliable, maintainable code with ongoing improvements and upgrades
 
 ### Tech Stack
