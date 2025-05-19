@@ -10,7 +10,7 @@
 ### Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square#956f2e0)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square#956f2e0)
-![Qt](https://img.shields.io/badge/Qt-green?logo=c&logoColor=fff&style=flat-square#956f2e0)
+![Qt](https://img.shields.io/badge/Qt-green?logo=qt&logoColor=fff&style=flat-square#956f2e0)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square#956f2e0)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=flat-square#956f2e0)
 ![NodeJS](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square#956f2e0)
